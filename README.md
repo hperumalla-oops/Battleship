@@ -100,3 +100,6 @@ Switches turn to the computer.
 ### Step 6: End of Game
 Win/Loss Check: First to score 9 wins.
 Game Over: Displays result and closes the application.
+
+Thanks to [Vaivaswat Verma](https://github.com/Vex-V) for fixing bugs and general motivation!!
+
